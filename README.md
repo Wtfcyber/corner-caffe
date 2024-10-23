@@ -1,1 +1,2 @@
 # corner-caffe
+Corner Cafe is the official website for a cozy, neighborhood cafe, offering a delightful selection of coffee, pastries, and light meals. This project showcases a responsive and user-friendly web design to provide an enhanced experience for cafe-goers, including menu browsing, location details, and online orders. Built using modern web technologies, this project emphasizes simplicity, elegance, and functionality.
